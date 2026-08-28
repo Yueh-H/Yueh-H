@@ -4,7 +4,7 @@ I build experiment-control systems that keep physics intent, controller behavior
 
 - **[Trapped-ion control stack](https://github.com/Yueh-H/trapped-ion-control-stack)** — A clean-room Python reference for compilation, scans, calibration, simulation, hardware admission, and traceable results. The public repository preserves an audited, sanitized main-line history; it makes no physical-ion or fidelity claim.
 - **[Industrial worker training](https://github.com/Yueh-H/NTU-hackathon-team12-industrial-worker-training)** — Mobile Chinese–Indonesian learning flows and a supervisor dashboard, shipped as a public web demo.
-- **[Engineer Blackboard · Knowledge Park](https://yueh-h.github.io/engineers_blackboard/)** — A deployed interactive learning map for exploring seven themed worlds and a searchable knowledge catalog.
+- **[Engineer Blackboard · Interactive Learning](https://yueh-h.github.io/engineers_blackboard/)** — A deployed interactive learning experience for exploring seven themed learning areas and a searchable knowledge catalog.
 
 I treat automated tests, deployed behavior, electrical emulation, and physical-hardware results as different evidence levels.
 
