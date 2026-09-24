@@ -7,7 +7,7 @@ I build software for trapped-ion experiments, connecting experiment requests and
 
 ## Selected engineering work
 
-- **[Trapped-ion Control Stack](https://github.com/Yueh-H/trapped-ion-control-stack)** — A clean-room Python reference platform for experiment control, including typed requests, preflight checks, compilation and execution adapters, scans, calibration workflows, API and monitoring paths, analysis, and traceable run records. It labels software simulation and electrical emulation separately from physical-ion verification.
+- **[Trapped-ion Control Stack](https://github.com/Yueh-H/trapped-ion-control-stack)** — A Python reference platform for experiment control, covering typed requests, preflight checks, compilation and execution adapters, scans, calibration workflows, APIs and monitoring, analysis, and traceable run records. It distinguishes software simulation and electrical emulation from physical-ion verification.
 - **[Control Systems Case Study](https://github.com/Yueh-H/trapped-ion-systems-case-study)** — A concise, sanitized walkthrough of control architecture, adapter boundaries, failure handling, and verification evidence in an ARTIQ/Kasli-SoC context.
 
 ## Engineering focus
