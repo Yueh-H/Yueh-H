@@ -1,11 +1,22 @@
-# Trapped-ion systems · ARTIQ · quantum control · AI tooling
+# Yueh-H
 
-I build experiment-control systems that keep physics intent, controller behavior, and verification evidence aligned.
+### Quantum Control Systems Engineer
+**Python · ARTIQ · experimental automation · hardware/software integration**
 
-- **[Trapped-ion control stack](https://github.com/Yueh-H/trapped-ion-control-stack)** — A clean-room Python reference for compilation, scans, calibration, simulation, hardware admission, and traceable results. The public repository preserves an audited, sanitized main-line history; it makes no physical-ion or fidelity claim.
-- **[Industrial worker training](https://github.com/Yueh-H/NTU-hackathon-team12-industrial-worker-training)** — Mobile Chinese–Indonesian learning flows and a supervisor dashboard, shipped as a public web demo.
-- **[Engineer Blackboard · Interactive Learning](https://yueh-h.github.io/engineers_blackboard/)** — A deployed interactive learning experience for exploring seven themed learning areas and a searchable knowledge catalog.
+I build software for trapped-ion experiments, connecting experiment requests and orchestration to deterministic control, monitoring, calibration, analysis, and traceable results. My work sits at the boundary between experimental physics and control systems, and I’m interested in applying that experience to scalable quantum-computer platforms.
 
-I treat automated tests, deployed behavior, electrical emulation, and physical-hardware results as different evidence levels.
+## Selected engineering work
+
+- **[Trapped-ion Control Stack](https://github.com/Yueh-H/trapped-ion-control-stack)** — A clean-room Python reference platform for experiment control, including typed requests, preflight checks, compilation and execution adapters, scans, calibration workflows, API and monitoring paths, analysis, and traceable run records. It labels software simulation and electrical emulation separately from physical-ion verification.
+- **[Control Systems Case Study](https://github.com/Yueh-H/trapped-ion-systems-case-study)** — A concise, sanitized walkthrough of control architecture, adapter boundaries, failure handling, and verification evidence in an ARTIQ/Kasli-SoC context.
+
+## Engineering focus
+
+- Python experiment-control software, ARTIQ workflows, and deterministic sequencing
+- APIs and services for experiment submission, monitoring, and results
+- Calibration and automation, testing, CI, documentation, and reproducibility
+- Integration across experimental workflows, control electronics, and software
+
+I bring hands-on trapped-ion control experience and am interested in contributing to reliable control software for scalable quantum systems.
 
 [Portfolio](https://yueh-h.github.io/trapped-ion-systems-engineering/) · [Google Scholar](https://scholar.google.com/citations?user=HxzfXY4AAAAJ&hl=en)
